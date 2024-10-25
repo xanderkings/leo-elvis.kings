@@ -34,7 +34,7 @@ const Projects = () => {
                     tailwindCSS and javascript.my portfolio showcases a diverse range that reflect my passion
                     for innovation, problem-solving, and commitment to excellence in computer Science.
                     also this encapsulates my professional evolution, featuring Projects that demonstrates my dedication to quality, collaboration and continuous learning in the field
-                    of computer Science.
+                    of COMPUTER SCIENCE.
                   </p>
                   <div className="stack">
                     <p>React</p>
