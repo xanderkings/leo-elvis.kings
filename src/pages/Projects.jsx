@@ -8,7 +8,7 @@ const Projects = () => {
         <div className="container">
           <div className="project-content">
             <p>portfolio</p>
-            <h3>This project is a unique piece of development 🧩</h3>
+            <h3>This project is a unique part of development 🧩</h3>
             <div className="projects-grid">
               <div className="pro pro__1 undefined">
                 <div className="pro__img">
@@ -26,11 +26,11 @@ const Projects = () => {
                 </div>
                 <div className="pro__text">
                   <h3>
-                    Leo-Elvis.Kings
+                    Leo-Elvis.Omeire
                     <span className="date-className">(July 2024)</span>
                   </h3>
                   <p>
-                    "Leo-Elvis.Kings" my personal portfolio project developed using react,
+                    "Leo-Elvis.Omeire" my personal portfolio project developed using react,
                     tailwindCSS and javascript.my portfolio showcases a diverse range that reflect my passion
                     for innovation, problem-solving, and commitment to excellence in computer Science.
                     also this encapsulates my professional evolution, featuring Projects that demonstrates my dedication to quality, collaboration and continuous learning in the field

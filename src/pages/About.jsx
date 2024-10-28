@@ -20,9 +20,9 @@ const About = () => {
               <p>
                 I am a driven Computer Science Student with a passion for software
                 development. My academic background and hands-on experience in
-                Python,CSS,javascript,react and various technologies equip me with the knowledge to contribute
+                CSS,Javascript,Python and various technologies equip me with the knowledge to contribute
                 effectively to innovative projects. I am eager to collaborate on
-                challenging assignments and continue my growth as a Computer Scientist. 
+                challenging assignments and continue my growth as a Computer Scientist.
                 Open to new opportunities and connections in the tech
                 world.
               </p>
